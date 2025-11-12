@@ -1,1 +1,2 @@
-print("Hello, py!")
+s = 'Python'
+print(s.lower())
